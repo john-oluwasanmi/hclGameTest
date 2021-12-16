@@ -3,3 +3,10 @@
 ################################################################################
 
 /hcl.game/bin/Debug/netcoreapp2.2
+/hcl.game/.vs/hcl.game/DesignTimeBuild
+/hcl.game/.vs/hcl.game
+/hcl.game/obj/Debug/netcoreapp2.2
+/hcl.game/obj
+/hcl.game.Tests/bin/Debug/netcoreapp2.2
+/hcl.game.Tests/obj/Debug/netcoreapp2.2
+/hcl.game.Tests/obj
